@@ -25,7 +25,7 @@ Tools: Vite / Create React App (depending on what you used)
 
 📂 Project Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/pikachu-project.git
+[git clone https://github.com/samratyadavsaurav/Pikachu-Project)
 cd pikachu-project
 
 2️⃣ Install Dependencies
