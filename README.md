@@ -1,12 +1,61 @@
-# React + Vite
+⚡ Pikachu Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React.js project that fetches Pikachu-related data using an external Pokémon API and displays it in an interactive UI.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with React.js
 
-## Expanding the ESLint configuration
+Fetches data from Pokémon API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Displays Pikachu’s abilities, stats, type, moves, and image
+
+Responsive and clean UI
+
+Fast and lightweight
+
+
+🛠️ Tech Stack
+
+Frontend: React.js, JavaScript, CSS
+
+API: PokéAPI
+
+Tools: Vite / Create React App (depending on what you used)
+
+📂 Project Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/pikachu-project.git
+cd pikachu-project
+
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Start Development Server
+npm run dev
+
+4️⃣ Build for Production
+npm run build
+
+🔑 API Used
+
+This project uses the PokéAPI to fetch real-time data about Pokémon.
+Example API endpoint for Pikachu:
+
+https://pokeapi.co/api/v2/pokemon/pikachu
+
+📌 Usage
+
+Open the project in your browser.
+
+Pikachu’s data will load dynamically from the API.
+
+Explore Pikachu’s stats, abilities, and other details.
+
+
+
+
+🧑 Author
+
+👨‍💻 Developed by [Saurav Kumar]
+🔗 GitHub: [(https://github.com/samratyadavsaurav)]
