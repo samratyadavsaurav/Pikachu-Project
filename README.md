@@ -1,8 +1,8 @@
-⚡ Pikachu Project
+## Pikachu Project using react
 
 A simple React.js project that fetches Pikachu-related data using an external Pokémon API and displays it in an interactive UI.
 
-🚀 Features
+## Features
 
 Built with React.js
 
@@ -15,7 +15,7 @@ Responsive and clean UI
 Fast and lightweight
 
 
-🛠️ Tech Stack
+## Tech Stack
 
 Frontend: React.js, JavaScript, CSS
 
@@ -44,7 +44,7 @@ Example API endpoint for Pikachu:
 
 https://pokeapi.co/api/v2/pokemon/pikachu
 
-📌 Usage
+## Usage
 
 Open the project in your browser.
 
